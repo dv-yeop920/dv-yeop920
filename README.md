@@ -4,7 +4,13 @@
 
 ## 안녕하세요, 제 GitHub에 방문해 주셔서 감사합니다
 
-꾸준한 노력과 의사소통을 중요하게 생각합니다.
+꾸준한 노력과 의사소통을 중요하게 생각합니다. <div style="text-align: center;">
+    <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"
+      target="_blank">
+      <img
+        src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg" />
+    </a>
+  </div>
 
 ### ✏️ Stacks
 
