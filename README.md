@@ -22,6 +22,8 @@
 <img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=Node.Js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MongoDB-3fa037?style=flat-square&logo=MongoDB&logoColor=white"/>
+<br />
+<img src="https://img.shields.io/badge/Aws S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 
 <br />
 
