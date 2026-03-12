@@ -25,16 +25,4 @@
 <br />
 <img src="https://img.shields.io/badge/Aws S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 
-<br />
-
-<h4 align="center"> Blog & Social </h4>
-
-<p align="center">
-  <a href="https://dev-yeop920.tistory.com/"><img src="http://img.shields.io/badge/-Tistory%20[KR]-black?style=flat-square&logo=tistory&link=https://dev-yeop920.tistory.com/" /></a>&nbsp;
-  <a href="mailto:jyeop920@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyeop920@gmail.com" /></a>
-</p>
-
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=dv-yeop920">
-
 </div>
